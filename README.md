@@ -6,7 +6,7 @@ Este projeto é uma ferramenta desenvolvida em Excel para simular investimentos 
 
 Projeto desenvolvido como desafio prático do curso **Excel Avançado com IA e Claude** (Santander Open Academy / DIO).
 
-## 🎯 Objetivos
+##   Objetivos
 
 - Aplicar os conceitos de Excel no desenvolvimento de uma ferramenta prática de simulação de investimentos
 - Automatizar cálculos financeiros complexos (valor investido, patrimônio acumulado, dividendos mensais)
@@ -42,7 +42,7 @@ Um seletor (dropdown) permite escolher entre os perfis **Conservador**, **Modera
 - **Validação de dados** (dropdown) para o campo de seleção de perfil
 - **Formatação visual** (cor de preenchimento) para diferenciar células de entrada (input) das células de resultado
 
-## 📋 Premissas Assumidas
+##   Premissas Assumidas
 
 - A taxa de rendimento mensal (`taxa_mensal`) e o rendimento da carteira (`rendimento_carteira`) são estimativas médias, ajustáveis conforme o histórico real dos fundos escolhidos pelo usuário
 - Os percentuais de alocação por perfil de risco (Conservador/Moderado/Agressivo) são valores de referência, não recomendações de investimento
@@ -56,7 +56,7 @@ Um seletor (dropdown) permite escolher entre os perfis **Conservador**, **Modera
     └── (capturas de tela da planilha)
 ```
 
-## 🚀 Como Usar
+##   Como Usar
 
 1. Baixe o arquivo `Simulador_de_Investimentos.xlsx`
 2. Preencha os campos destacados (Salário, Rendimento da Carteira, Quanto Investir por Mês, Por Quantos Anos, Taxa de Rendimento)
