@@ -13,7 +13,7 @@ Projeto desenvolvido como desafio prático do curso **Excel Avançado com IA e C
 - Documentar um processo técnico de forma clara e estruturada
 - Compartilhar a solução via GitHub
 
-## 🧮 Como a Planilha Funciona
+##   Como a Planilha Funciona
 
 A aba **APP** reúne todas as informações em um único painel:
 
