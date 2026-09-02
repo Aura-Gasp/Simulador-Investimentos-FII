@@ -52,8 +52,6 @@ Um seletor (dropdown) permite escolher entre os perfis **Conservador**, **Modera
 ```
 ├── README.md
 ├── Simulador_de_Investimentos.xlsx
-└── images/
-    └── (capturas de tela da planilha)
 ```
 
 ##   Como Usar
